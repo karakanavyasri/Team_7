@@ -35,7 +35,7 @@ h1{
     text-shadow:2px 2px 9px black;
 
 }
-button{
+a{
     margin-top: 2rem;
     box-shadow:2px 2px 9px black;
     margin-right: 20px;
@@ -47,19 +47,19 @@ button{
 @media(max-width:76.97rem){
 
     .banner{
-        height: 20rem;
+        height: 39rem;
     }
     h1{
         font-size: 1rem;
         margin-left: 1rem;
         padding-top: 7rem;
     }
-    .banner_buttons .desc{
+    a{
         font-size: 0.5rem;
         margin-left: -2.2rem;
         margin-top: -1.2rem;   
     }
-    button{
+    .btn{
         font-size: 0.5rem;
         margin-top: -1.2rem;
         margin-left: -2.2rem;

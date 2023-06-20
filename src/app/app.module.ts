@@ -9,6 +9,11 @@ import { FooterComponent } from './footer/footer.component';
 import { LoginComponent } from './login/login.component';
 import { ContactComponent } from './contact/contact.component';
 import { AboutComponent } from './about/about.component';
+import { UserdetailsComponent } from './userdetails/userdetails.component';
+import { DonarComponent } from './donar/donar.component';
+import { Donor1Component } from './donor1/donor1.component';
+import { DonordetailsComponent } from './donordetails/donordetails.component';
+import { UserDetailsComponent } from './user-details/user-details.component';
 
 
 @NgModule({
@@ -19,7 +24,12 @@ import { AboutComponent } from './about/about.component';
     FooterComponent,
     LoginComponent,
     ContactComponent,
-    AboutComponent
+    AboutComponent,
+    UserdetailsComponent,
+    DonarComponent,
+    Donor1Component,
+    DonordetailsComponent,
+    UserDetailsComponent
     
   ],
   imports: [
